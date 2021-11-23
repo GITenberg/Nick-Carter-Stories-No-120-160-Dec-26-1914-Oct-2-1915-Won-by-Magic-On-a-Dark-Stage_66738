@@ -1,5 +1,8 @@
 _repo: Nick-Carter-Stories-No-120-160-Dec-26-1914-Oct-2-1915-Won-by-Magic-On-a-Dark-Stage_66738
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66738-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Phillips, Roland Ashford
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '53837'
     url: http://www.gutenberg.org/2009/agents/53837
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66738#Nick-Carter-Stories-No-120-160-Dec-26-1914-Oct-2-1915-Won-by-Magic-On-a-Dark-Stage
 gutenberg_issued: '2021-11-15'
 identifiers:
   gutenberg: '66738'
